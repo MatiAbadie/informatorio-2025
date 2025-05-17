@@ -1,6 +1,6 @@
 package imperativa;
 
-public class puntosPorCadaMision {
+public class puntosPorCadaMision{
     public static void main(String[] args) {
         int[] puntosPorMision = new int[5];
         int total = 0;
